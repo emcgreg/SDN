@@ -2,6 +2,7 @@
 # These are my notes from the CELL class on SDN
 # I created a github account on 4/7/2017 @ 03:23 hrs in order to learn more about code and the code way. 
 # This file was upladed as a guild and a test. 
+# These are actually just notes, not really code. 03:51
 #
 # Hello World - amazing
 
